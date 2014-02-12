@@ -1,0 +1,10 @@
+<eResourceEntry  timestamp='1389550290755' resUri='platform:/resource/MMI_Ovinger/tests/oving1.jex' key='resource selected' value='null'/>
+<eObjectEntry  timestamp='1389550320962' resUri='platform:/resource/MMI_Ovinger/tests/oving1.jex' fragmentId='//@requirements.0/@requirements.1' key='junit test launch' value='testComponentPresence'/>
+<eObjectEntry  timestamp='1389550691701' resUri='platform:/resource/MMI_Ovinger/tests/oving1.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1389550692630' resUri='platform:/resource/MMI_Ovinger/tests/oving1.jex' fragmentId='//@requirements.0/@requirements.3' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1389550693333' resUri='platform:/resource/MMI_Ovinger/tests/oving1.jex' fragmentId='//@requirements.0/@requirements.5' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1389550711353' resUri='platform:/resource/MMI_Ovinger/tests/oving1.jex' fragmentId='//@requirements.0/@requirements.7' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1389550731406' resUri='platform:/resource/MMI_Ovinger/tests/oving1.jex' fragmentId='//@requirements.0/@requirements.9' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1389550740893' resUri='platform:/resource/MMI_Ovinger/tests/oving1.jex' fragmentId='//@requirements.0/@requirements.11' key='test run status' value='false'/>
+<eResourceEntry  timestamp='1389551092502' resUri='platform:/resource/MMI_Ovinger/tests/oving1.jex' key='resource selected' value='null'/>
+<eResourceEntry  timestamp='1389604712821' resUri='platform:/resource/MMI_Ovinger/tests/oving1.jex' key='resource selected' value='null'/>
