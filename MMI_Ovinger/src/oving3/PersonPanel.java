@@ -99,14 +99,6 @@ public class PersonPanel extends JPanel implements PropertyChangeListener{
 		GenderPropertyComponent.setSelectedItem(model.getGender());
 		HeightPropertyComponent.setValue(model.getHeight());
 	}
-		
-//	protected void updateModel(){
-//		model.setName(NamePropertyComponent.getText());
-//		model.setEmail(EmailPropertyComponent.getText());
-//		model.setDateOfBirth(DateOfBirthComponent.getText());
-//		model.setGender((Gender) GenderPropertyComponent.getSelectedItem());
-//		model.setHeight(HeightPropertyComponent.getValue());
-//	}
 	
 	public Person getModel(){
 		//updateModel();
