@@ -1,4 +1,4 @@
-package exsamples;
+package examples;
 
 import java.beans.PropertyChangeSupport;
 import java.beans.PropertyChangeListener;
